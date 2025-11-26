@@ -2,6 +2,8 @@
 
 # [**CAA2026認知文化財投稿論文**](https://drive.google.com/file/d/1JtcIVHGUhMh9ugbzMWTo7VJXFkkUgRPZ/view?usp=sharing)
 
+# [**HoloLens2視線捕捉空間精度投稿論文**](https://drive.google.com/file/d/1Q5RQh2fRPGOGgbQx9PIahGIzY-L7COeF/view?usp=drive_link)
+
 Video demo:
 
 1. 装飾墳墓MR実験デモ動画: [VIDEO](https://drive.google.com/file/d/1yMV8zyqbAU6D3UyIe2-bPnbcVmmvkW_d/view?usp=sharing)
